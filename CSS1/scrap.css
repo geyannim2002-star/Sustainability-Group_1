@@ -1,0 +1,63 @@
+/*Stylesheet created by: Geyanni Mondithoka with the help of Group-1 members, 29-08-26*/
+
+/*Style for body specifies a background color*/
+body {
+  background-color: mintcream;
+}
+
+/*Style for container centers the page and sets the element width*/
+#container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*Style for header specifies top and bottom margins, background-color, rounded border, shadow, and alignment*/
+
+header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: green;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px white;
+  text-align: center;
+}
+
+/*Style for navigation specifies text properties, padding, margins and borders*/
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+nav {
+  font-family: Ariel, "Times New Roman", Calibri;
+  font-weight: bold;
+  font-size: 1.25em;
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 20px;
+  border-top: 5px solid green;
+  border-bottom: 5px solid green;
+  text-align: center;
+}
+
+/*Style for main specifies a block display, text properties, margins, padding, rounded border and shadow*/
+main {
+  display: block;
+  font-family: Ariel, "Times New Roman", Calibri;
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 15px;
+  box-shadow: 10px 10px 10px green;
+  text-align: left;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+}
